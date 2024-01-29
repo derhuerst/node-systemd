@@ -2,7 +2,7 @@
 
   Adds support for running node.js as a socket-activated service under systemd.
 
-  *Note:* **This is a temporary fork of [`rubenv/node-systemd`](https://github.com/rubenv/node-systemd)**.
+  *Note:* **This is a fork of [`rubenv/node-systemd`](https://github.com/rubenv/node-systemd)**.
 
   More info on the how and why: https://rocketeer.be/articles/deploying-node-js-with-systemd/
 
